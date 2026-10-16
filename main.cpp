@@ -9,6 +9,7 @@ int izbira;
 cout << "*****Kalkulator*****" << endl;
 cout << "Sestevanje" << endl;
 cout << "Odstevanje" << endl;
+cout << "Mnozenje" << endl;
 
 cout << "Izberi operacijo: ";
 cin >> izbira;
@@ -28,6 +29,10 @@ switch(izbira){
 
     case 2:
     cout << "Rezultat: " << a-b << endl;
+    break;
+
+    case 3:
+    cout << "Rezultat: " << a*b << endl;
     break;
 
     default:
