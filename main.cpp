@@ -13,7 +13,7 @@ cin >> a;
 cout << "Vnesi drugo število: ";
 cin >> b;
 
-cout << "Vsota: " << a+b << endl;
+cout << "Rezultat: " << a+b << endl;
 
     return 0;
 }
