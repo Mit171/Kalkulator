@@ -1,0 +1,11 @@
+# Prevedeni programi
+*.exe
+
+# Objektne datoteke
+*.o
+*.obj
+
+# Zacasne datoteke
+*.log
+*.tmp
+
