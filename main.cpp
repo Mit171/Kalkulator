@@ -6,7 +6,7 @@ int main() {
 double a,b;
 int izbira;
 
-cout << "*****Kalkulator*****" << endl;
+cout << "*****Dodbrodosli v kalkulator*****" << endl;
 cout << "Sestevanje" << endl;
 cout << "Odstevanje" << endl;
 
