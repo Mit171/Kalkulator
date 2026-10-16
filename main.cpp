@@ -6,7 +6,7 @@ int main() {
 double a,b;
 int izbira;
 
-cout << "*****NAPREDNI KALKULATOR*****" << endl;
+cout << "*****NAPREDNI SUPER KALKULATOR" << endl;
 cout << "Sestevanje" << endl;
 cout << "Odstevanje" << endl;
 cout << "Mnozenje" << endl;
