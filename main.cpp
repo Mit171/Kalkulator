@@ -1,3 +1,4 @@
+//Preprost Kalkulator
 #include <iostream>
 using namespace std;
 
