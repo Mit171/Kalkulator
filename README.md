@@ -6,3 +6,6 @@ Preprost kalkulator, napisan v C++
 
 Sestevanje, odstevanje, deljenje
 
+#Projekt
+
+Projekt uporabljam za ucenje Git ukazov
